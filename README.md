@@ -1,7 +1,7 @@
 # Nerdy Word Count Generator
 A **word count generator** perfect for **high school** and **college** students.
 
-```
+```python
 print('My Head, 2022, My Head Publishing Company')
 ```
 
