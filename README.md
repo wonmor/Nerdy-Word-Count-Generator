@@ -1,7 +1,7 @@
 # Nerdy Word Count Generator
 A **word count generator** perfect for **high school** and **college** students.
 
-[Download for Windows](https://github.com/wonmor/Nerdy-Word-Count-Generator/raw/main/NerdyWordCountGenerator.exe)
+[Download for **Windows**](https://github.com/wonmor/Nerdy-Word-Count-Generator/raw/main/NerdyWordCountGenerator.exe)
 
 ```python
 print('My Head, 2022, My Head Publishing Company')
